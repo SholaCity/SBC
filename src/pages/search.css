@@ -1,0 +1,9 @@
+section {
+  margin-top: 5rem;
+}
+
+.search h1 {
+  font-size: 2rem;
+  color: var(--white50);
+  margin: 0.85rem 0;
+}
